@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeff03038
-- 👀 I’m interested in Python Development for the Cyber Defense/Red Teaming
+- 👀 I’m interested in Python Development for Red Teaming Attack Tools
 - 🌱 I’m currently learning more
 - 💞️ I’m looking to collaborate on Python Development
 - 📫 How to reach me jeffro03053@gmail.com
